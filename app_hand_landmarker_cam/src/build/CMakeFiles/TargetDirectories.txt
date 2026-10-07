@@ -1,0 +1,3 @@
+/drp-ai_tvm/how-to/sample_app_v2h/app_hand_landmarker_cam/src/build/CMakeFiles/app_hand_landmarker_cam.dir
+/drp-ai_tvm/how-to/sample_app_v2h/app_hand_landmarker_cam/src/build/CMakeFiles/edit_cache.dir
+/drp-ai_tvm/how-to/sample_app_v2h/app_hand_landmarker_cam/src/build/CMakeFiles/rebuild_cache.dir
